@@ -131,7 +131,7 @@ print(snail)
 print(snail.size)
 snail.save("snail2.bod")
 
-# mass convert files to pngs
+# mass convert files to pngs (very scuffed, converts hex into square grid)
 #import matplotlib.pyplot as plt
 #from PIL import Image
 #import numpy as np
